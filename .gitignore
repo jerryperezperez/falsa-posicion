@@ -13,7 +13,7 @@ import java.text.DecimalFormatSymbols;
 
 
 public class FalsaPosicion {
-
+//más cambios que deben servir
     
     public static void main(String[] args) {
      
@@ -92,3 +92,4 @@ DecimalFormat df = new DecimalFormat("####.000000000",simbolos);
     }
     
 }
+.gitignore
